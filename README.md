@@ -125,10 +125,6 @@ The reported metrics are based on the project's held-out test set.
 - Computer Vision
 - Object Detection
 
-## 📜 License
-
-Add an appropriate license after verifying that the dataset and trained weights can be redistributed under that license.
-
 ## 👨‍💻 Project
 
 **AI Road Accident Detection using YOLO11**
